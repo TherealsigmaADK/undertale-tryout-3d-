@@ -1,5 +1,6 @@
 {
     "name": "Undertale tryout 3D ",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
